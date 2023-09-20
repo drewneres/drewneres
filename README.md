@@ -46,8 +46,6 @@ Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`\
 Projetos em destaque: [Scire](https://www.sciretech.com/sgi))
 <br/>
 
-
-<br/>
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
