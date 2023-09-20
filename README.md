@@ -40,7 +40,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="(http://sciretech.com.br/images/logo.png)
-"/>](https://www.spacex.com/)
+"/>](http://sciretech.com.br/images/logo.png)
 
 **Suporte/Desenvolvedor** \
 [**Scire Tech**](http://sciretech.com.br) • Full-time \
