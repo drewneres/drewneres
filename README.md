@@ -39,7 +39,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Scire" src="http://sciretech.com.br/images/logo.png)
+[<img align="left" height="94px" width="94px" alt="Scire" src="https://imgur.com/gallery/lDJfUzm)
 "/>](http://sciretech.com.br/sgi/)
 
 **Suporte/Desenvolvedor** \
