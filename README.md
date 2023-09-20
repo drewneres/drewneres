@@ -9,15 +9,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **Java, Python, HTML, CSS, ASP, SQL.**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **VSCODE, NAVICAT, DREAMWEAVER, TRELLO,.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: hendrewneresfsa@hotmail.com⤵️
 </p>
 
 <p align="left">
