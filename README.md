@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Estudante de Análise e Desenvolvimento de Sistemas com sólida experiência em tecnologia, com ênfase em suporte e desenvolvimento. Destaco-me como Suporte/Desenvolvedor, aprimorando habilidades em correção de bugs, suporte ao cliente, desenvolvimento web e sistemas ERP. Possuo especialização em SAP HCM, o que reforça minha aptidão na gestão de recursos humanos. Reconhecido por solucionar problemas de forma eficaz e melhorar processos.<br>
 </p>
 
 <p align="left">
