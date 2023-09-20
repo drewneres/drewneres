@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
 
-**Software Engineer** \
+**Desenvolvedor/Suporte** \
 [**Scire Tecnologia**](https://www.sciretech.com.br/sgi) • Full-time \
 Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`\
 Projetos em destaque: [Scire](https://www.sciretech.com/sgi))
