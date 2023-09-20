@@ -42,9 +42,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
 **Suporte/Desenvolvedor** \
-[**SpaceX**](http://sciretech.com.br) • Full-time \
+[**Scire Tech**](http://sciretech.com.br) • Full-time \
 Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`,\
-Projetos em destaque: [Rocket](http://sciretech.com.br/sgi/index.asp), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Projetos em destaque: (http://sciretech.com.br/sgi/index.asp)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
