@@ -16,8 +16,8 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo:
-   hendrewneresfsa@hotmail.com⤵️
+  💌 Entre em contato comigo: ⤵️
+   hendrewneresfsa@hotmail.com
 </p>
 
 ## 🚀 Minhas Skills
