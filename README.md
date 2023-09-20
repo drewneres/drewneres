@@ -35,11 +35,9 @@
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewneres_icons=true)
 <p align="left">
   <a href="hendrewneresfsa@gmail.com/" alt="Gmail">
-  <a href="mailto:hendrewneresfsa@gmail.com">hendrewneresfsa@gmail.com</a>
-
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:hendrewneresfsa@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/hendrewneres/" alt="LinkedIn">
