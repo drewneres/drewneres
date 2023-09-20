@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Entre em contato comigo: ⤵️<br>
    hendrewneresfsa@hotmail.com
 </p>
 
