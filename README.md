@@ -48,7 +48,7 @@ Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`\
 Projetos em destaque: (http://sciretech.com.br/sgi/index.asp)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Sscire" src="![image](https://imgur.com/a/lDJfUzm)
+[<img align="left" height="94px" width="94px" alt="Sscire" src="![image](https://imgur.com/gallery/lDJfUzm)
 "/>](http://sciretech.com.br/sgi/index.asp/)
 
 **Frot-end Developer (Jr)** \
