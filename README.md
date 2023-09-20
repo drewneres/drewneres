@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java, Python, HTML, CSS, ASP, SQL.**
+  🦄 Linguagens: Java, Python, HTML, CSS, ASP, SQL, JS.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCODE, NAVICAT, DREAMWEAVER, TRELLO,.**
+  💼 Ferramentas: VSCODE, NAVICAT, DREAMWEAVER, TRELLO.
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hendrewneres/" alt="Gmail">
+  <a href="hendrewneresfsa@gmail.com/" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/hendrewneres/" alt="LinkedIn">
@@ -30,9 +30,8 @@
   <a href="https://api.whatsapp.com/send?phone=5561999456996" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=drewneres"/></a>
 </p>
