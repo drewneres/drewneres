@@ -37,14 +37,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true)
 <p align="left">
-  <a href="hendrewneresfsa@gmail.com/" alt="Gmail">
+  <a href="mailto:hendrewneresfsa@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:hendrewneresfsa@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/hendrewneres/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hendrewneres/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5561999456996" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561999456996"/></a>
 
 
 
