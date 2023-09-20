@@ -43,11 +43,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Suporte/Desenvolvedor** \
 [**Scire Tech**](http://sciretech.com.br) • Full-time \
-Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`,\
+Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`\
 Projetos em destaque: (http://sciretech.com.br/sgi/index.asp)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Sscire" src="![image](https://github.com/drewneres/drewneres/assets/71440544/bbc62d17-4d0f-4292-8630-0ea06839de46)
+"/>](http://sciretech.com.br/sgi/index.asp/)
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
