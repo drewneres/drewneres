@@ -35,21 +35,17 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 ---
 
-### Experiência de trabalho
-
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Scire" src="https://imgur.com/gallery/lDJfUzm)
-"/>](http://sciretech.com.br/sgi/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
 
-**Suporte/Desenvolvedor** \
-[**Scire Tech**](http://sciretech.com.br) • Full-time \
+**Software Engineer** \
+[**Scire Tecnologia**](https://www.sciretech.com/) • Full-time \
 Linguagens & Tecnologias: `ASP`, `HTML`, `CSS`, `JavaScript`, `MYSQL`\
-Projetos em destaque: (http://sciretech.com.br/sgi/index.asp)
+Projetos em destaque: [Scire](https://www.sciretech.com/))
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Sscire" src="![image](https://imgur.com/gallery/lDJfUzm)
-"/>](http://sciretech.com.br/sgi/index.asp/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
@@ -66,7 +62,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 <p align="left">
   <a href="mailto:hendrewneresfsa@gmail.com" alt="Gmail">
