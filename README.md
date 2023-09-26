@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCODE, NAVICAT, DREAMWEAVER, TRELLO.
+  💼 Ferramentas: VSCODE, NAVICAT, DREAMWEAVER, POSTGREE, NETBEANS, INTELLIJ, ECLIPSE, TRELLO.
 </p>
 
 <p align="left">
