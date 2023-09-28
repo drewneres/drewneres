@@ -65,4 +65,3 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
   <a href="https://www.instagram.com/drewneres/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/drewneres/"/></a>
 </p>
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrewneres&show_icons=true)
