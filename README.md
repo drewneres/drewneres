@@ -64,5 +64,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
 
   <a href="https://www.instagram.com/drewneres/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/drewneres/"/></a>
-  [![](https://visitcount.itsvg.in/api?id=drewneres&label=Visitas%20ao%20perfil&icon=0&pretty=false)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=drewneres&label=Visitas%20ao%20perfil&icon=0&pretty=false" />
 </p>
