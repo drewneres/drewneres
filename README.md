@@ -70,6 +70,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
 </p>
 <div>
   <a href="https://github.com/n4ju15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewneres&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <!-- Adicione um estilo CSS inline para a segunda imagem -->
+  <a href="https://github.com/n4ju15" style="margin-left: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewneres&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
