@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCODE, NAVICAT, APIDOG, MAVEN, GIT, DREAMWEAVER, POSTGREE, NETBEANS, INTELLIJ, ECLIPSE, TRELLO.
+  💼 Ferramentas: VScode, Navicat, APIDOG, Maven, GIT, DreamWeaver, PostGree, NetBean, IntelliJ, Eclipse, Trello.
 </p>
 
 <p align="left">
