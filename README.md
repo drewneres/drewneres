@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, Python, HTML, CSS, ASP, SQL, JS.
+  🦄 Linguagens: Java, JavaScript, Python, HTML, CSS, ASP, SQL.
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCODE, NAVICAT, DREAMWEAVER, POSTGREE, NETBEANS, INTELLIJ, ECLIPSE, TRELLO.
+  💼 Ferramentas: VSCODE, NAVICAT, APIDOG, MAVEN, GIT, DREAMWEAVER, POSTGREE, NETBEANS, INTELLIJ, ECLIPSE, TRELLO.
 </p>
 
 <p align="left">
