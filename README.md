@@ -66,9 +66,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/drewneres/"/></a>
 </p>
 <div>
-  <a href="https://github.com/drewneres">
+ <!  <a href="https://github.com/drewneres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+  </a>–> 
   <a href="https://github.com/drewneres" style="margin-left: 8px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewneres&layout=compact&langs_count=7&theme=dracula"/>
   </a>
