@@ -66,7 +66,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
 </p>
 <div>
  <a href="https://github.com/drewneres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewneres&show_icons=true&theme=dracula"/></a>
   <a href="https://github.com/drewneres" style="margin-left: 8px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewneres&layout=compact&langs_count=7&theme=dracula"/>
   </a>
