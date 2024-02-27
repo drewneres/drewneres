@@ -8,11 +8,11 @@
 </p>
   
 <p align="left">
-  🦄 Linguagens: Java, JavaScript, Python, HTML, CSS, ASP, SQL, React.
+  🦄 Linguagens: PHP, Java, JavaScript, Python, HTML, CSS, ASP, SQL, React.
 </p>
 
 <p align="left">
-  💼 Ferramentas: VScode, Navicat, APIDOG, Maven, GIT, DreamWeaver, PostgreSQL, NetBeans, IntelliJ, Eclipse, Trello.
+  💼 Frame: Laravel, React, Angular.
 </p>
 
 <p align="left">
