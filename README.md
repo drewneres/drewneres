@@ -5,15 +5,8 @@
 
 <p align="left"> 
   Estudante de Análise e Desenvolvimento de Sistemas com sólida experiência em tecnologia, com ênfase em suporte e desenvolvimento. Destaco-me como Suporte/Desenvolvedor, aprimorando habilidades em correção de bugs, suporte ao cliente, desenvolvimento web e sistemas ERP. Possuo especialização em SAP HCM, o que reforça minha aptidão na gestão de recursos humanos. Reconhecido por solucionar problemas de forma eficaz e melhorar processos.<br>
-</p>
-  
-<p align="left">
-  🦄 Linguagens: PHP, Java, JavaScript, Python, HTML, CSS, ASP, SQL, React.
-</p>
+</p
 
-<p align="left">
-  💼 Frame: Laravel, React, Angular.
-</p>
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️<br>
