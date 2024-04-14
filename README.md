@@ -26,6 +26,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/></code>
 ---
+<p align="center">
+  <a href="#">
+    <img src="[BASE_URL]?i=html,css,js,bootstrap,react,node.js,docker,mongodb,postgresql,awslambda" />
+  </a>
+</p>
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
