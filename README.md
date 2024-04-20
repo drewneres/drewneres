@@ -25,7 +25,7 @@
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/></code>
-<code><img height="32" https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
 ---
 ### Experiência de trabalho
 
