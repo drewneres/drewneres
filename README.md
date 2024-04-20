@@ -36,7 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor/Suporte** \
 [**Scire Tecnologia**](https://www.sciretech.com.br) • Full-time \
 Linguagens & Tecnologias: `ASP`,`HTML`,`CSS`,`JavaScript`,`MYSQL`,`VSCODE`,`NAVICAT`,`DREAMWEAVER`,`TRELLO`\
-Projetos em destaque: [Scire](https://www.sciretech.com/sgi))
+Projetos em destaque: [Scire](https://sciretech.com.br/sgi/))
 <br/>
 
 <br/>
