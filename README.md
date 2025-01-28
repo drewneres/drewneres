@@ -31,6 +31,7 @@
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
 [<img align="left" height="94px" width="auto" alt="Presidência da República" src="https://github.com/user-attachments/assets/150e74de-ee8e-4115-b1ec-9f15053d0949"/>](https://www.gov.br/pt-br/)
 **Desenvolvedor Web** \
 [**Presidência da República**](https://www.gov.br/pt-br) • Full-time \
