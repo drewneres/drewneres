@@ -31,7 +31,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Presidência da República" src="https://imgur.com/a/2a8J3mS"/>]
+[<img align="left" height="94px" width="94px" alt="Presidência da República" src="https://imgur.com/a/2a8J3mS"/>](https://www.gov.br/pt-br)
 
 **Desenvolvedor Web** \
 [**Presidência da República**](!) • Full-time \
