@@ -36,7 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Web** \
 [**Presidência da República**](!) • Full-time \
 Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `JavaScript`, `CSS`, `Bootstrap`, `MySQL`, `Docker`, `GitLab CI/CD`
-Projetos em destaque: [Presidência da República]((https://idjovem.juventude.gov.br/emitir-id-jovem))
+Projetos em destaque: [Presidência da República](https://idjovem.juventude.gov.br/emitir-id-jovem)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
