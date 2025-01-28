@@ -31,7 +31,7 @@
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-[<img align="left" height="94px" width="94px" alt="Presidência da República"![UGfB5A7 - Imgur](https://github.com/user-attachments/assets/6a4618ba-c827-4c3d-8d81-a69317a6db95)]
+[<img align="left" height="94px" width="94px" alt="Presidência da República" src="https://github.com/user-attachments/assets/6a4618ba-c827-4c3d-8d81-a69317a6db95"/>](https://www.gov.br/pt-br/)
 
 [<img align="left" height="94px" width="94px" alt="Presidência da República" src="(https://imgur.com/a/JYim7PD)"/>](https://www.gov.br/pt-br/)
 **Desenvolvedor Web** \
