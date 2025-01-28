@@ -31,10 +31,10 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-
+[brasaooficialcolorido](https://github.com/user-attachments/assets/e0cffd9d-ec4c-459e-b811-8b1a83ab3806)
 
 **Desenvolvedor Web** \
-[**Presidência da República**](![brasaooficialcolorido](https://github.com/user-attachments/assets/e0cffd9d-ec4c-459e-b811-8b1a83ab3806)) • Full-time \
+[**Presidência da República**](!) • Full-time \
 Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `JavaScript`, `CSS`, `Bootstrap`, `MySQL`, `Docker`, `GitLab CI/CD`
 Projetos em destaque: [Presidência da República]((https://idjovem.juventude.gov.br/emitir-id-jovem))
 <br/>
