@@ -31,7 +31,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[brasaooficialcolorido](https://github.com/user-attachments/assets/e0cffd9d-ec4c-459e-b811-8b1a83ab3806)
+[<img align="left" height="94px" width="94px" alt="Presidência da República" src="https://imgur.com/a/2a8J3mS"/>]
 
 **Desenvolvedor Web** \
 [**Presidência da República**](!) • Full-time \
