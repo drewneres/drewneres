@@ -4,7 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estudante de Análise e Desenvolvimento de Sistemas com sólida experiência em tecnologia, com ênfase em suporte e desenvolvimento. Destaco-me como Suporte/Desenvolvedor, aprimorando habilidades em correção de bugs, suporte ao cliente, desenvolvimento web e sistemas ERP. Possuo especialização em SAP HCM, o que reforça minha aptidão na gestão de recursos humanos. Reconhecido por solucionar problemas de forma eficaz e melhorar processos.<br>
+ Atualmente, atuo no desenvolvimento e manutenção de sistemas governamentais, com foco na implementação de soluções tecnológicas que impactam programas sociais. Possuo sólida experiência em desenvolvimento web, incluindo o uso de PHP, Laravel e integrações de APIs REST.  
+Destaco-me pela capacidade de resolver problemas de forma eficaz, melhorar processos e contribuir para a criação de soluções eficientes. <br>
 </p>
 
 
