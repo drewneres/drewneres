@@ -33,7 +33,6 @@ Destaco-me pela capacidade de resolver problemas de forma eficaz, melhorar proce
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Presidência da República" src="https://i.imgur.com/a/2a8J3mS"/>](https://www.gov.br/pt-br)
-
 **Desenvolvedor Web** \
 [**Presidência da República**](https://www.gov.br/pt-br) • Full-time \
 Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `JavaScript`, `CSS`, `Bootstrap`, `MySQL`, `Docker`, `GitLab CI/CD`.
