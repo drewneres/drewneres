@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmente, atuo no desenvolvimento e manutenção de sistemas governamentais, com foco na implementação de soluções tecnológicas que impactam programas sociais. Possuo sólida experiência em desenvolvimento web, incluindo o uso de PHP, Laravel e integrações de APIs REST.  
-Destaco-me pela capacidade de resolver problemas de forma eficaz, melhorar processos e contribuir para a criação de soluções eficientes. <br>
+ Atualmente, atuo no desenvolvimento e manutenção de sistemas governamentais, com foco na implementação de soluções tecnológicas que impactam programas sociais. Possuo sólida experiência em desenvolvimento web, incluindo o uso de PHP, Laravel e integrações de APIs REST. <br>
 </p>
 
 
