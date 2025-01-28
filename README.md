@@ -43,7 +43,7 @@ Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem
 **Desenvolvedor/Suporte** \
 [**Scire Tecnologia**](https://www.sciretech.com.br) • Full-time \
 Linguagens & Tecnologias: `ASP`,`HTML`,`CSS`,`JavaScript`,`MYSQL`,`VSCODE`,`NAVICAT`,`DREAMWEAVER`,`TRELLO`\
-Projetos em destaque: [Scire](https://sciretech.com.br/sgi/))
+Projetos em destaque: [Scire](https://sciretech.com.br/sgi/)
 <br/>
 
 <br/>
