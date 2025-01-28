@@ -31,7 +31,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
+
 
 **Desenvolvedor Web** \
 [**Presidência da República**](![brasaooficialcolorido](https://github.com/user-attachments/assets/e0cffd9d-ec4c-459e-b811-8b1a83ab3806)) • Full-time \
@@ -39,6 +39,7 @@ Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `
 Projetos em destaque: [Presidência da República]((https://idjovem.juventude.gov.br/emitir-id-jovem))
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
 **Desenvolvedor/Suporte** \
 [**Scire Tecnologia**](https://www.sciretech.com.br) • Full-time \
 Linguagens & Tecnologias: `ASP`,`HTML`,`CSS`,`JavaScript`,`MYSQL`,`VSCODE`,`NAVICAT`,`DREAMWEAVER`,`TRELLO`\
