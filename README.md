@@ -39,7 +39,6 @@ Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem
 <br/>
 
 [<img align="left" height="94px" src="https://github.com/user-attachments/assets/fe99b8d9-b30d-47ce-a9a8-2c1da694117a" />](https://compass.uol/pt/home/)
-
 **Estagiário Backend** \
 [**COMPASS UOL**](https://compass.uol/pt/home/) • Pair-time \
 Linguagens & Tecnologias: `Java`, `SpringBoot`, `MySQL`, `AWS`, `MongoDB`, `EC2`, `RabbitMQ`, `OpenFeign `, `APIs REST`, `Docker`, `GitLab CI/CD`.  
