@@ -39,7 +39,8 @@ Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `
 Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem), [SINAJUVE](https://sinajuve.juventude.gov.br/home)  
 <br/>
 
-[<img align="left" height="94px" width="auto" alt="Compass UOL" src="![image](https://github.com/user-attachments/assets/fe99b8d9-b30d-47ce-a9a8-2c1da694117a)
+[<img align="left" height="94px" width="auto" alt="Compass UOL" src="![image](https://github.com/user-attachments/assets/fe99b8d9-b30d-47ce-a9a8-2c1da694117a)![defaultThumb](https://github.com/user-attachments/assets/31fcf00d-44df-4335-bc55-b892ff08c43d)
+
 "/>](https://compass.uol/pt/home/)
 **Estagiário Backend** \
 [**COMPASS UOL**](https://compass.uol/pt/home/) • Pair-time \
