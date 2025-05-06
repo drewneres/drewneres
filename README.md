@@ -39,11 +39,11 @@ Linguagens & Tecnologias: `PHP`, `React`, `Tailwind`, `TypeScript`, `Laravel`, `
 Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem), [SINAJUVE](https://sinajuve.juventude.gov.br/home)  
 <br/>
 
-[<img align="left" height="94px" width="auto" alt="Presidência da República" src="https://github.com/user-attachments/assets/150e74de-ee8e-4115-b1ec-9f15053d0949"/>](https://www.gov.br/pt-br/)
+[<img align="left" height="94px" width="auto" alt="Compass UOL" src="![image](https://github.com/user-attachments/assets/fe99b8d9-b30d-47ce-a9a8-2c1da694117a)
+"/>](https://compass.uol/pt/home/)
 **Estagiário Backend** \
 [**COMPASS UOL**](https://compass.uol/pt/home/) • Pair-time \
 Linguagens & Tecnologias: `Java`, `SpringBoot`, `MySQL`, `AWS`, `MongoDB`, `EC2`, `RabbitMQ`, `OpenFeign `, `APIs REST`, `Docker`, `GitLab CI/CD`.  
-Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem), [SINAJUVE](https://sinajuve.juventude.gov.br/home)  
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
