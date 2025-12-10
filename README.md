@@ -31,11 +31,15 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="https://github.com/user-attachments/assets/97a7f5ba-a0d7-4338-9c19-41a9bfc40f0c"/>**Desenvolvedor FullStack** \
+<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="https://github.com/user-attachments/assets/97a7f5ba-a0d7-4338-9c19-41a9bfc40f0c"/>
+
+**Desenvolvedor FullStack** \
 [**Prefeitura de Formosa-GO**](https://formosa.go.gov.br) • Full-time \
-Linguagens & Tecnologias: `Spring Boot`, `PostgreSQL`, `React Native`, `Laravel`, `MySQL`, `TypeScript`, `TSX`, `JavaScript`, `Docker`, `GitLab CI/CD`.
+Linguagens & Tecnologias: `Spring Boot`, `PostgreSQL`, `React Native`, `Laravel`, `MySQL`, `TypeScript`, `TSX`, `JavaScript`, `Docker`, `GitLab CI/CD`. \
 Projetos em destaque: [MOBIBUS](https://mobibus.formosa.go.gov.br/login)
+
 <br/>
+
 
 [<img align="left" height="94px" width="auto" alt="Presidência da República" src="https://github.com/user-attachments/assets/150e74de-ee8e-4115-b1ec-9f15053d0949"/>](https://www.gov.br/pt-br/)
 **Desenvolvedor Web** \
