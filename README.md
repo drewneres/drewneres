@@ -31,8 +31,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="<img width="1945" height="2071" alt="001" src="https://github.com/user-attachments/assets/2f8ef93c-403b-442c-893f-0229f03729f4" />
-"/>
+<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="<img width="1945" height="2071" alt="001" src="https://github.com/user-attachments/assets/2f8ef93c-403b-442c-893f-0229f03729f4"/>
 
 **Desenvolvedor FullStack** \
 [**Prefeitura de Formosa-GO**](https://formosa.go.gov.br) • Full-time \
