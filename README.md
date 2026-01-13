@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/drewneres/">
     <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00D2D3" alt="Instagram Badge"/>
   </a>
-  <a href="https://drewneres.github.io/">
+  <a href="https://drewneres.github.io/portfolio-Hendrew2024-main/">
     <img src="https://img.shields.io/badge/Portfolio-00D2D3?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
   </a>
 
