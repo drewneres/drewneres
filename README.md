@@ -49,8 +49,8 @@ Projetos em destaque: [IDJOVEM](https://idjovem.juventude.gov.br/emitir-id-jovem
 <br/>
 
 [<img align="left" height="94px" src="https://github.com/user-attachments/assets/fe99b8d9-b30d-47ce-a9a8-2c1da694117a" />](https://compass.uol/pt/home/)
-**Estagiário Backend** \
-[**COMPASS UOL**](https://compass.uol/pt/home/) • Part-time \
+**Desenvolvedor Backend** \
+[**COMPASS UOL**](https://compass.uol/pt/home/) • Full-time \
 Foco em arquitetura de microsserviços e Cloud Computing. \
 Stack: `Java`, `SpringBoot`, `AWS (EC2/S3)`, `MongoDB`, `RabbitMQ`.  
 <br/>
