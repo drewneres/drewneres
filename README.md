@@ -36,7 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor FullStack Pleno** \
 [**Prefeitura de Formosa-GO**](https://formosa.go.gov.br) • Full-time \
 Liderança técnica em projetos municipais críticos. \
-Stack: `Spring Boot`, `React Native`, `PostgreSQL`, `Laravel`, `Docker`, `GitLab CI/CD`. \
+Stack: `JAVA`, `Spring Boot`, `React Native`, `PostgreSQL`, `Laravel`, `Docker`, `GitLab CI/CD`. \
 Projetos em destaque: [MOBIBUS](https://mobibus.formosa.go.gov.br/login), [Portal do Contribuinte](https://portalcontribuinte.formosa.go.gov.br/)
 <br/>
 
@@ -58,7 +58,7 @@ Stack: `Java`, `SpringBoot`, `AWS (EC2/S3)`, `MongoDB`, `RabbitMQ`.
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/TWS5kap.png"/>](https://www.sciretech.com.br/)
 **Desenvolvedor/Suporte** \
 [**Scire Tecnologia**](https://www.sciretech.com.br) • Full-time \
-Stack: `ASP`, `HTML/CSS`, `JavaScript`, `MySQL`.
+Stack: `JAVA`, `HTML/CSS`, `JavaScript`, `MySQL`.
 <br/>
 
 <br/>
