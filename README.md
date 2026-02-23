@@ -33,7 +33,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="https://github.com/user-attachments/assets/2f8ef93c-403b-442c-893f-0229f03729f4"/>](https://formosa.go.gov.br)
-**Desenvolvedor FullStack Pleno** \
+**Desenvolvedor FullStack** \
 [**Prefeitura de Formosa-GO**](https://formosa.go.gov.br) • Full-time \
 Liderança técnica em projetos municipais críticos. \
 Stack: `JAVA`, `Spring Boot`, `React Native`, `PostgreSQL`, `Laravel`, `Docker`, `GitLab CI/CD`. \
