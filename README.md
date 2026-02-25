@@ -67,7 +67,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hendrewneres/) 
 
 <p align="left">
   <a href="https://drewneres.github.io/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/-Portfolio_Online-00D2D3?style=flat-square&labelColor=00D2D3&logo=googlechrome&logoColor=black&link=https://drewneres.github.io/" /></a>
+  <img src="https://img.shields.io/badge/-Portfolio_Online-00D2D3?style=flat-square&labelColor=00D2D3&logo=googlechrome&logoColor=black&link=https://drewneres.github.io/portfolio" /></a>
 
   <a href="mailto:hendrewneresfsa@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:hendrewneresfsa@gmail.com" /></a>
