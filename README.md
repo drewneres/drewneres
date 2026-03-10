@@ -19,13 +19,13 @@
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"/></code>
+<!-- <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"/></code> -->
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap"/></code>
+<!-- <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap"/></code> -->
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://github.com/drewneres/drewneres/assets/71440544/8787d723-35c0-42ba-bfda-dec1da169f1b" alt="MySQL"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/></code>
+<!-- <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/></code> -->
 
 ---
 ### Experiência de trabalho
