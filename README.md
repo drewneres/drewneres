@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmente, atuo como <b>Software Engineer</b> focado no desenvolvimento de sistemas governamentais estratégicos. <br>
- Tenho experiência sólida em arquitetura de software, com foco em <b>Java (Spring Boot)</b>, <b>PHP (Laravel)</b> e <b>React</b>. Especialista em integrar sistemas legados, APIs REST, Docker e pipelines de CI/CD.
+Atualmente, atuo como <b>Software Engineer</b> focado no desenvolvimento de sistemas governamentais estratégicos.<br>
+Tenho experiência sólida em arquitetura de software, com foco em <b>Java (Spring Boot)</b> e <b>Angular</b>. Especialista em desenvolvimento e integração de APIs REST, modelagem de dados (<b>PostgreSQL</b> e <b>MongoDB</b>) e infraestrutura utilizando <b>Docker</b> e <b>AWS</b>.
 </p>
 
 <p align="left">
