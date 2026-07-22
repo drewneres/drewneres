@@ -26,10 +26,10 @@ Tenho experiência sólida em arquitetura de software, com foco em <b>Java (Spri
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="auto" alt="STEFANINI" src="https://github.com/user-attachments/assets/13be382c-bcd0-4672-bf12-41a6969e5674" />
+[<img align="left" height="94px" width="auto" alt="STEFANINI" src="https://github.com/user-attachments/assets/13be382c-bcd0-4672-bf12-41a6969e5674"/>](https://stefanini.com/pt)
 **Desenvolvedor Backend** \
 [**Stefanini**](https://stefanini.com/pt) • Full-time \
-Desenvolvimento e manuntenção de projetos municipais críticos. \
+Desenvolvimento e manuntenção de projetos nacionais bancários críticos. \
 Stack: `JAVA`, `Spring Boot`, `Angular`, `PostgreSQL`, `MySQL`, `Docker`, `GitLab CI/CD`,`Azure Devops`. \
 <br/>
 
