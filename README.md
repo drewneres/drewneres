@@ -27,7 +27,6 @@ Tenho experiência sólida em arquitetura de software, com foco em <b>Java (Spri
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="auto" alt="STEFANINI" src="https://github.com/user-attachments/assets/13be382c-bcd0-4672-bf12-41a6969e5674" />
-![Uploading image.png…]()
 />](https://formosa.go.gov.br)
 **Desenvolvedor Backend** \
 [**Stefanini**](https://stefanini.com/pt) • Full-time \
