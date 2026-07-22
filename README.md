@@ -26,6 +26,15 @@ Tenho experiência sólida em arquitetura de software, com foco em <b>Java (Spri
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="auto" alt="STEFANINI" src="https://github.com/user-attachments/assets/13be382c-bcd0-4672-bf12-41a6969e5674" />
+![Uploading image.png…]()
+/>](https://formosa.go.gov.br)
+**Desenvolvedor Backend** \
+[**Stefanini**](https://stefanini.com/pt) • Full-time \
+Desenvolvimento e manuntenção de projetos municipais críticos. \
+Stack: `JAVA`, `Spring Boot`, `Angular`, `PostgreSQL`, `MySQL`, `Docker`, `GitLab CI/CD`,`Azure Devops`. \
+<br/>
+
 [<img align="left" height="94px" width="auto" alt="Prefeitura de Formosa" src="https://github.com/user-attachments/assets/2f8ef93c-403b-442c-893f-0229f03729f4"/>](https://formosa.go.gov.br)
 **Desenvolvedor FullStack** \
 [**Prefeitura de Formosa-GO**](https://formosa.go.gov.br) • Full-time \
