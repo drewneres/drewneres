@@ -20,7 +20,7 @@ Sou <b>Desenvolvedor Full Stack</b> com foco principal em <b>Java (Spring Boot)<
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"/></code>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/></code>
 
 **Frontend & Mobile**
@@ -49,8 +49,8 @@ Sou <b>Desenvolvedor Full Stack</b> com foco principal em <b>Java (Spring Boot)<
 
 **Mensageria & Streaming**
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="Kafka"/></code>
 
 ---
 ### Experiência de trabalho
