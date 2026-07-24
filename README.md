@@ -3,8 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Atualmente, atuo como <b>Desenvolvedor Backend Pleno</b> na <b>Stefanini Brasil</b>, no setor financeiro bancário, desenvolvendo APIs críticas para monitoramento de terminais ATM em tempo real.<br><br>
-Sou <b>Desenvolvedor Full Stack</b> com foco principal em <b>Java (Spring Boot)</b> e <b>TypeScript (Angular / React Native)</b>. Tenho experiência em sistemas distribuídos, arquitetura de microsserviços, soluções mobile offline-first e DevOps com <b>Docker</b> e <b>AWS</b>.
+<b>Desenvolvedor Backend / Full Stack</b> com foco em <b>Java e Spring Boot</b>, com mais de 5 anos de experiência construindo soluções digitais de missão crítica para o setor público e o setor financeiro.<br><br>
+Na <b>Presidência da República</b>, contribuí para plataformas que atendem mais de <b>1,4 milhão de beneficiários</b>, reduzindo o tempo de emissão de documentos digitais de 45 para 2 dias. Na <b>Prefeitura de Formosa</b>, participei da digitalização de sistemas municipais que geraram economia comprovada de <b>R$ 800 mil</b> aos cofres públicos. Atualmente na <b>Stefanini</b>, atuo no ecossistema bancário com microsserviços, Kafka e operações de alta disponibilidade.<br><br>
+<b>Stack principal:</b> Java (Spring Boot, microsserviços, APIs REST), React, React Native, Angular, PostgreSQL, Oracle, Docker, Kubernetes, AWS e CI/CD (GitLab/Jenkins).<br><br>
+Busco projetos de médio e longo prazo com inovação técnica, boas práticas de engenharia e impacto real na vida das pessoas.
 </p>
 
 <p align="left">
