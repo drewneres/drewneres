@@ -20,7 +20,7 @@ Sou <b>Desenvolvedor Full Stack</b> com foco principal em <b>Java (Spring Boot)<
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Go-Dark.svg" alt="Go"/></code>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/></code>
 
 **Frontend & Mobile**
@@ -36,7 +36,7 @@ Sou <b>Desenvolvedor Full Stack</b> com foco principal em <b>Java (Spring Boot)<
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Oracle-Dark.svg" alt="Oracle"/></code>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **DevOps & Cloud**
 
